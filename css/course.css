@@ -1,0 +1,42 @@
+.converter-block {
+    margin: 0 auto;
+    max-width: 800px;
+    height: 825px;
+    background-color: #fff;
+    padding-top: 30px;
+    box-shadow: 0 6px 42px -5px rgba(0, 0, 0, 0.2);
+}
+
+.converter-block h2 {
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    color: #323C48;
+}
+
+.coverter-inputs-to {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.converter-inputs-from {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.converter-input {
+    width: 400px;
+    padding: 30px 15px;
+    background: #323C48;
+    border: 1px solid #B6985E;
+    color: white;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.converter-input.button {
+    cursor: pointer;
+    width: 380px;
+    background-color: #B6985E;
+    color: white;
+}
